@@ -30,5 +30,14 @@
     ["#EF476F", "#FFD166", "#06D6A0", "#118AB2", "#073B4C"],
     ["#F72585", "#7209B7", "#3A0CA3", "#4361EE", "#4CC9F0"],
     ["#606C38", "#283618", "#FEFAE0", "#DDA15E", "#BC6C25"]
-  ]
+  ],
+  "backgrounds": {
+    "тепло": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
+    "холод": "https://images.unsplash.com/photo-1477601263568-184e2c65358b?auto=format&fit=crop&w=1920&q=80",
+    "природа": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1920&q=80",
+    "ніч": "https://images.unsplash.com/photo-1506318137071-a8e063b4b6a1?auto=format&fit=crop&w=1920&q=80",
+    "пастель": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1920&q=80",
+    "яскраво": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=1920&q=80",
+    "default": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1920&q=80"
+  }
 }
