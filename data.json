@@ -1,0 +1,43 @@
+{
+  "moodPalettes": {
+    "тепло": [
+      ["#FF6B6B", "#FF8E53", "#FFA849", "#FFD166", "#FFE8A3"],
+      ["#E63946", "#F4845F", "#F4A261", "#E9C46A", "#F7DC6F"]
+    ],
+    "холод": [
+      ["#03045E", "#0077B6", "#00B4D8", "#90E0EF", "#CAF0F8"],
+      ["#1B262C", "#0F4C75", "#1B6CA8", "#6AADDE", "#BBD8E3"]
+    ],
+    "природа": [
+      ["#2D6A4F", "#40916C", "#52B788", "#95D5B2", "#D8F3DC"],
+      ["#386641", "#6A994E", "#A7C957", "#E8F5C8", "#BC6C25"]
+    ],
+    "ніч": [
+      ["#0D0D0D", "#1A1A2E", "#16213E", "#0F3460", "#533483"],
+      ["#03001C", "#141414", "#2E2E2E", "#6B6B6B", "#A6A6A6"]
+    ],
+    "пастель": [
+      ["#FFADAD", "#FFD6A5", "#FDFFB6", "#CAFFBF", "#9BF6FF"],
+      ["#E8C8FF", "#F9C8E0", "#FFDAC1", "#FFF1C1", "#C8F7C5"]
+    ],
+    "яскраво": [
+      ["#FF0000", "#FF7F00", "#FFFF00", "#00FF00", "#0000FF"],
+      ["#FF006E", "#FB5607", "#FFBE0B", "#8338EC", "#3A86FF"]
+    ]
+  },
+  "fallbackPalettes": [
+    ["#264653", "#2A9D8F", "#E9C46A", "#F4A261", "#E76F51"],
+    ["#EF476F", "#FFD166", "#06D6A0", "#118AB2", "#073B4C"],
+    ["#F72585", "#7209B7", "#3A0CA3", "#4361EE", "#4CC9F0"],
+    ["#606C38", "#283618", "#FEFAE0", "#DDA15E", "#BC6C25"]
+  ],
+  "backgrounds": {
+    "тепло": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=1920&q=80",
+    "холод": "https://images.unsplash.com/photo-1477601263568-184e2c65358b?auto=format&fit=crop&w=1920&q=80",
+    "природа": "https://images.unsplash.com/photo-1441974231531-c6227db76b6e?auto=format&fit=crop&w=1920&q=80",
+    "ніч": "https://images.unsplash.com/photo-1506318137071-a8e063b4b6a1?auto=format&fit=crop&w=1920&q=80",
+    "пастель": "https://images.unsplash.com/photo-1513151233558-d860c5398176?auto=format&fit=crop&w=1920&q=80",
+    "яскраво": "https://images.unsplash.com/photo-1550684848-fac1c5b4e853?auto=format&fit=crop&w=1920&q=80",
+    "default": "https://images.unsplash.com/photo-1497215728101-856f4ea42174?auto=format&fit=crop&w=1920&q=80"
+  }
+}
